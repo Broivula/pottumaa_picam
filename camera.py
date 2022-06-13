@@ -90,7 +90,7 @@ class _PiCamera(object):
                     camera.iso = 800
                     print("printing extra info")
                     print("exp speed")
-                    print(caamera.exposure_speed)
+                    print(camera.exposure_speed)
                     print("shutter speed")
                     print(camera.shutter_speed)
                     print("a small delay to calculate the light..")

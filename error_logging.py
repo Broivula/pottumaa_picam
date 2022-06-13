@@ -31,7 +31,6 @@ def handle_error_log(py_file, err_text):
         f = open('.cached')
         t = f.read()
         f.close()
-        print(t)
         # first log the error locally
         error_text = '##' + get_date_time() + "## " + get_file(py_file) + " - " + err_text
         write_local_error_log(error_text)
