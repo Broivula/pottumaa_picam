@@ -1,0 +1,85 @@
+ERRORS:
+##2022-06-13 02:14:51.463138## pi_cam_networking.py - [Errno 101] Network is unreachable
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e465b0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+##2022-06-13 12:20:15.741367## camera.py - name 'caamera' is not defined
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:20:22.062206## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5208>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:20:32.168176## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5988>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:20:42.279081## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5dc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:20:52.389650## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:02.494716## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:12.606865## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:22.718247## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce53b8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:32.829543## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:42.939561## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c921c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:21:53.048029## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:03.160120## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46ef8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:13.271471## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce51a8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:23.382174## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5838>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:33.491478## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:43.597866## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92370>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:22:53.702224## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:03.811800## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:13.929708## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5718>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:24.039591## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:34.148941## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46508>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:44.298042## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:23:54.406539## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92658>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:04.520251## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:14.632026## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce51c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:24.743356## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce54d8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:34.853872## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5988>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:44.962025## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:24:55.073178## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c925e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:05.183470## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:15.299850## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce57f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:25.407971## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce53b8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:35.517359## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5058>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:45.626792## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46f88>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:25:55.736000## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c922b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:05.849520## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92aa8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:15.961870## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x64e46f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:26.072182## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:36.180543## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5d18>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:46.290411## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63ce5ef8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+##2022-06-13 12:26:56.398886## pi_cam_networking.py - [Errno 111] Connection refused
+ERR LOG FAILURE: HTTPSConnectionPool(host='51.91.56.133', port=8799): Max retries exceeded with url: /image/error_log (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x63c92400>: Failed to establish a new connection: [Errno 111] Connection refused'))
